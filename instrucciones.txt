@@ -1,0 +1,7 @@
+
+# 1 generar un tar del directorio datos con nombre problema1.tar
+# 2 generar un gzip del archivo problema2.tar
+# 3 generar un bzip2 del archivo problema3.tar
+# 4 generar un tgz del directorio proyectos con nombre problema4.tar.gz 
+# 5 extraer y desarchivar problema5.tbz2 en el directorio p5
+
